@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Times&duration=2500&pause=1000&color=D6F7C5&width=435&lines=Hello!+I+am+Emre!;I+am+trying+to+improve+myself+in+the+;field+of+cyber+security.)](https://git.io/typing-svg)
 
-<img align="right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/913539566571727175/4781E0DEEBDAF91A23DA4895244DA82E0E910DC3/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
+<img align="right" alt="Coding" width="550" src="https://steamuserimages-a.akamaihd.net/ugc/913539566571727175/4781E0DEEBDAF91A23DA4895244DA82E0E910DC3/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emredemrdag&label=Profile%20views&color=0e75b6&style=flat" alt="emredemrdag" /> </p>
 
