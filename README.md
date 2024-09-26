@@ -23,4 +23,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emredemrdag&show_icons=true&locale=en&layout=compact&bg_color=000000&text_color=ffffff&icon_color=00ffff" alt="emredemrdag" /></p>
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=emredemrdag&count_private=true&show_icons=true&theme=chartreuse-dark)
+<img src="https://github-readme-stats.vercel.app/api?username=emredemrdag&count_private=true&show_icons=true&theme=chartreuse-dark" width="340" />
